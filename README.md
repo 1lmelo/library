@@ -35,5 +35,5 @@ $ npm run test:cov
 
 ## Stay in touch
 
-- Author - [Lucas Melo](https://kamilmysliwiec.com)
+- Author - [Lucas Melo](https://www.linkedin.com/in/lmelo01/)
 
